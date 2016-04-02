@@ -1,6 +1,6 @@
 {
-  "name": "Tab Inspector",
-  "description": "Utility for working with the extension tabs api",
+  "name": "Tab query",
+  "description": "Copies urls of open tabs and writes them to local storage",
   "version": "0.3",
   "permissions": ["tabs"],
   "background": {
